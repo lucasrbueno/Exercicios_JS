@@ -1,0 +1,23 @@
+body{
+background-color:black;
+display:block;
+margin:15% 40% 0 40%;
+}
+
+#emba, #embaralhe{
+  font-family:Arial, Helvetica;
+  color:whitesmoke;
+  margin-left:20px;
+  font-size:2em;
+}
+
+form p{
+  font-family:Arial, Helvetica;
+  color:whitesmoke;
+  font-size: 1em;
+}
+
+#borda{
+  border-radius:10%;
+  margin:0 0 0 100px;
+}
