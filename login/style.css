@@ -1,0 +1,33 @@
+body{
+background-color:black;
+display:block;
+margin:10% 40% 0 40%;
+}
+
+h1, h2{
+  font-family:Arial, Helvetica;
+  color:whitesmoke;
+  font-size:2em;
+  text-align:center;
+}
+
+fieldset p{
+  font-family:Arial, Helvetica;
+  color:whitesmoke;
+  font-size: 1em;
+  margin-left:60px;
+}
+
+.botao{
+  border-radius:10%;
+  margin: 10px 0 0 110px;
+}
+
+legend{
+  font-size:2em;
+  color:whitesmoke;
+}
+
+#resultado{
+  color:whitesmoke;
+}
